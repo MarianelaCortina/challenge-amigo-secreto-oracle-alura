@@ -12,12 +12,12 @@ function limpiarInput(){
     document.getElementById("amigo").value = "";
 }
 
-/* function mostrarListaAmigos(){
+function mostrarListaAmigos(){
     document.getElementById("listaAmigos").innerHTML = "";
     for(let i = 0; i < listaAmigos.length; i++){
         document.getElementById("listaAmigos").innerHTML += "<li>" + listaAmigos[i] + "</li>";
     }
-} */
+}
 
 function agregarAmigo(){
     ingresarNombreAmigo();
@@ -32,7 +32,7 @@ function agregarAmigo(){
     }else{
         listaAmigos.push(nombreAmigo);
         //console.log(listaAmigos);
-        //mostrarListaAmigos();
+        mostrarListaAmigos();
     }
     limpiarInput();
 }
