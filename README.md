@@ -39,7 +39,11 @@
 ## <h2>Capturas de pantalla</h2>
 ![Captura de pantalla 2025-02-03 123014](https://github.com/user-attachments/assets/92c8cc30-c259-42df-8ec7-7a25820d67b9)
 <br>
-![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/3186d7b3-9ed4-4e1a-b2dc-32416bb9182d)
+<br>
+<br>
+<br>
+![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/2b5e586b-7c81-47ad-ad21-df8aa51a815f)
+
 <br>
 
 #### 👉🏻 Desarrolladora 👨🏻‍💻
