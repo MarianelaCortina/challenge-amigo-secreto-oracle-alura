@@ -37,7 +37,8 @@
 </ol>
 
 ## <h2>Capturas de pantalla</h2>
-![Captura de pantalla 2025-02-03 123014](https://github.com/user-attachments/assets/92c8cc30-c259-42df-8ec7-7a25820d67b9)
+![Captura de pantalla 2025-02-03 123014](https://github.com/user-attachments/assets/e999bc48-eca2-40c0-a7d0-ba7e4a0ef0ff)
+
 <br>
 <br>
 <br>
