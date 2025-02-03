@@ -92,6 +92,11 @@ body {
     justify-content: center;
 }
 
+.button-container-reiniciar {
+    width: 300px;
+    justify-content: center;
+    margin-top: 20px;
+}
 /* Estilos de entrada de texto */
 .input-title {
     flex: 1;
@@ -160,3 +165,31 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+
+/* Botón de reiniciar título */
+.button-draw-reiniciar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-button);
+    background-color: var(--color-white);
+    font-size: 16px;
+}
+
+.button-draw-reiniciar img {
+    margin-right: 40px;
+}
+
+.button-draw-reiniciar:hover {
+    background-color: var(--color-button);
+    color: var(--color-white);
+}
+
+.button-draw-reiniciar:disabled {
+    background: #898989;
+    color: var(--color-white);
+}
+
+

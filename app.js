@@ -58,6 +58,13 @@ function mostrarListaAmigos() {
     let listaHTML = listaAmigos.map(amigo => `<li>${amigo}</li>`).join("");
     asignarTextoElemento('listaAmigos', listaHTML, true, false);
 }
+/*Esta función vacía la lista de amigos ingreada por el usuario
+permitiendo que el array se pueda reutilizar para agregar
+nuevos nombres de amigos */
+function limpiarListaAmigos(){
+    listaAmigos.length = 0;
+    return listaAmigos;
+}
     
 function agregarAmigo(){
     ingresarNombreAmigo();
@@ -88,6 +95,14 @@ function sortearAmigo() {
     let amigoGanador = generarAmigoSorteado(listaAmigos);
     asignarTextoElemento("resultado", `<li>El amigo secreto sorteado es: ${amigoGanador}</li>`, true, true);
     limpiarElementoPorId('listaAmigos');
+    asignarTextoElemento("title-input", ``, false, false)
+    document.getElementById('reiniciar').removeAttribute('disabled');
 }
 
 
+function reiniciarJuegoAmigoSecreto(){
+    document.querySelector('#reiniciar').setAttribute('disabled','true');
+    asignarTextoElemento("title-input", `Digite el nombre de sus amigos`, false, false);
+    asignarTextoElemento("resultado", ``, false, false);
+    limpiarListaAmigos();
+}
