@@ -38,18 +38,15 @@
 
 ## <h2>Capturas de pantalla</h2>
 ![Captura de pantalla 2025-02-03 123014](https://github.com/user-attachments/assets/e999bc48-eca2-40c0-a7d0-ba7e4a0ef0ff)
+<br>
+<br>
+![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/eeef21cc-6a5f-4a54-8222-1bb08c6600d2)
 
-<br>
-<br>
-<br>
-<br>
-![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/211790ad-99b3-4ae0-8610-150c451417c4)
 
-<br>
 
 #### 👉🏻 Desarrolladora 👨🏻‍💻
 
-|![_Foto-perfil-lk-12-2024 (1)](https://github.com/user-attachments/assets/1addf0d3-6475-4d79-a9e2-0d08acc5c96c)|
+|<img src="https://github.com/user-attachments/assets/1addf0d3-6475-4d79-a9e2-0d08acc5c96c" width="100">|
 |:-:|
 | **Marianela Cortina**|
 | <a href="https://www.linkedin.com/in/marianelaCortina"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
