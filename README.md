@@ -1,6 +1,6 @@
-![Captura de pantalla 2025-02-03 121535](https://github.com/user-attachments/assets/03543a19-72a7-413a-9fe5-6f4108da54b6)
-
 # <h1>Juego del Amigo Secreto</h1>
+
+![Captura de pantalla 2025-02-03 121535](https://github.com/user-attachments/assets/03543a19-72a7-413a-9fe5-6f4108da54b6)
 
 ## <h2>Descripción</h2>
 <p>Este es un juego simple del "Amigo Secreto" desarrollado en JavaScript, donde los usuarios pueden agregar nombres a una lista y luego sortear aleatoriamente un amigo secreto.</p>
@@ -37,9 +37,9 @@
 </ol>
 
 ## <h2>Capturas de pantalla</h2>
-<p><code>![Lista de amigos ingresada por el usuario]![Captura de pantalla 2025-02-03 123014](https://github.com/user-attachments/assets/af12490a-1fa6-4600-9b97-81db6d265b08)
+<p><code>![Lista de amigos ingresada por el usuario](https://github.com/user-attachments/assets/af12490a-1fa6-4600-9b97-81db6d265b08)
 </code>)</p>
-<p><code>![Amigo sorteado]![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/4370a669-a40c-4cb2-a512-4bbab91761d1)
+<p><code>![Amigo sorteado](https://github.com/user-attachments/assets/4370a669-a40c-4cb2-a512-4bbab91761d1)
 </code>)</p>
 
 #### 👉🏻 Desarrolladora 👨🏻‍💻
