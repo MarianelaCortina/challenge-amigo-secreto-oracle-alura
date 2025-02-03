@@ -37,9 +37,10 @@
 </ol>
 
 ## <h2>Capturas de pantalla</h2>
-<p><code>![Lista de amigos ingresada por el usuario](https://github.com/user-attachments/assets/af12490a-1fa6-4600-9b97-81db6d265b08)
+<p><code>![Captura de pantalla 2025-02-03 123014](https://github.com/user-attachments/assets/92c8cc30-c259-42df-8ec7-7a25820d67b9)
+
 </code>)</p>
-<p><code>![Amigo sorteado](https://github.com/user-attachments/assets/4370a669-a40c-4cb2-a512-4bbab91761d1)
+<p><code>![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/3186d7b3-9ed4-4e1a-b2dc-32416bb9182d)
 </code>)</p>
 
 #### 👉🏻 Desarrolladora 👨🏻‍💻
