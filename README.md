@@ -43,7 +43,7 @@
 <br>
 <br>
 <br>
-![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/2b5e586b-7c81-47ad-ad21-df8aa51a815f)
+![Captura de pantalla 2025-02-03 123441](https://github.com/user-attachments/assets/d5d12234-9b66-4e72-a69c-2043cdaed617)
 
 <br>
 
